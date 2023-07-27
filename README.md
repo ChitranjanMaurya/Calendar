@@ -8,5 +8,4 @@ This is a simple program in C Language which takes month and year as input and p
 git clone https://github.com/ChitranjanMaurya/Calendar
 3. Done Enjoy!
 ```
-![Image Not Found](me.jpg)
-![](me%20(1).jpg)
+![](me.png)
