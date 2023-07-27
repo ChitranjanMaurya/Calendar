@@ -16,7 +16,7 @@ int main()
   scanf("%d",&mm);
  }while(mm<1||mm>12);
  
- if(mm==4mm==6mm==9||mm==11)
+ if(mm==4||mm==6||mm==9||mm==11)
    {
     dd=30;
    }
@@ -36,7 +36,7 @@ int main()
      }
    }
    
-   if(mm==1mm==3mm==5mm==7mm==8mm==10mm==12)
+   if(mm==1||mm==3||mm==5||mm==7||mm==8||mm==10||mm==12)
      dd=31;
    
    nleap=(yy-1)/4-(yy-1)/100+(yy-1)/400;
