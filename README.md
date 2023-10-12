@@ -11,4 +11,4 @@ git clone https://github.com/ChitranjanMaurya/Calendar
 ![](me.png)
 ![](hii.jpg)
 
-Visit my blog :point_right: https://bca-online-academy.blogspot.com/
+Visit my blog :point_right: https://theknowledgenests.blogspot.com/
